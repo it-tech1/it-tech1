@@ -1,4 +1,6 @@
 ## Hi there 👋
+## How are you all? Hope you all a great day and great learning.
+## I am new to GitHub
 
 <!--
 **it-tech1/it-tech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

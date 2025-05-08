@@ -1,5 +1,5 @@
 ## Hi there 👋
-## How are you all? Hope you all a great day and great learning.
+## How are you all? Hope you all have a great day and great learning.
 ## I am new to GitHub
 
 <!--
